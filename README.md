@@ -2,8 +2,8 @@
 
 - 🔭 I just launched my first website: phoenixpixel.it
 - 🌱 I’m currently learning everything
-- 👯 I’m looking to collaborate on this team: github.com/phoenixpixel-it
-- 🥅 2021 Goals: Learn cyber security
+- 👯 I’m looking to collaborate on this team: [github.com/phoenixpixel-it][phoenixpixel]
+- 🥅 2021 Goals: Learn cyber security | Ethical hacking
 - ⚡ Fun fact: I play Rainbow Six Siege | Rocket League
 
 <br />
