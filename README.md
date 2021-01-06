@@ -1,8 +1,8 @@
 ## Trying to program things, admin of phoenixpixel.it 💻
 
-- 🔭 I just launched my first website: phoenixpixel.it
+- 🔭 I just launched my first website: [phoenixpixel.it](phoenixpixel.it)
 - 🌱 I’m currently learning everything
-- 👯 I’m looking to collaborate on this team: [github.com/phoenixpixel-it][phoenixpixel]
+- 👯 I’m looking to collaborate on this team: [Phoenixpixel](github.com/phoenixpixel-it)
 - 🥅 2021 Goals: Learn cyber security | Ethical hacking
 - ⚡ Fun fact: I play Rainbow Six Siege | Rocket League
 
