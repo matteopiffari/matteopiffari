@@ -6,6 +6,10 @@
 - 🥅 2021 Goals: Learn cyber security | Ethical hacking
 - ⚡ Fun fact: I play Rainbow Six Siege | Rocket League
 
+### Contact me:
+
+[<img align="left" alt="Project_Piffa | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+
 <br />
 
 ### Languages and Tools:
@@ -28,3 +32,5 @@
 <br />
 <br />
 <br />
+
+[twitter]: https://twitter.com/PiffaProject
