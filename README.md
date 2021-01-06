@@ -1,6 +1,6 @@
 ## Trying to program things, admin of phoenixpixel.it 💻
 
-- 🔭 I just launched my first website: [PhoenixPixel.it][website]!
+- 🔭 I just launched my first website: [phoenixpixel.it][website]!
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate on this team: github.com/phoenixpixel-it
 - 🥅 2021 Goals: Learn cyber security
