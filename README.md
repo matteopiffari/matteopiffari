@@ -1,4 +1,4 @@
-## Trying to program things, admin of phoenixpixel.it 💻
+## Trying to program things, admin of phoenixpixel 💻
 
 - 🔭 I just launched my first website: [phoenixpixel.it](https://phoenixpixel.it)
 - 🌱 I’m currently learning everything
