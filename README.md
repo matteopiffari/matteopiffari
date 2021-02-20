@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [TorchFlow](https://github.com/phoenixpixel-it/TorchFlow)
 
-- 🌱 I’m currently learning **Cyber security & Ethical hacking**
+- 🌱 I’m currently learning **Cyber security, Ethical hacking & go**
 
 - 👯 I’m looking to collaborate on [phoenixpixel-it](https://github.com/phoenixpixel-it/)
 
