@@ -1,14 +1,8 @@
 <h1 align="center">🚀Profile of Project_Piffa</h1>
 <h3 align="center">Trying to program things, admin of phoenixpixel</h3>
 
-<div align="center">
-<img width="100%" height = "500px" src="https://source.unsplash.com/Q1p7bh3SHj8/1600x900" alt="cover" />
-</div>
-
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Project-Piffa.Project-Piffa)
 
 </p>
 <div size='20px'> Hi! My name is Matteo. Thank You for taking the time to view my GitHub Profile :smile: 
