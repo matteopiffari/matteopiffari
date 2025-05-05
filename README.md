@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Matteo Piffari</h1>
 
-- 🔭 I’m currently working on [MyWorkMate](www.myworkmate.it)
+- 🔭 I’m currently working on [MyWorkMate](https://www.myworkmate.it)
 
 - 🌱 I’m currently learning **Software / Computer engineering**
 
