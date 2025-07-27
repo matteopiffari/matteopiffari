@@ -1,4 +1,15 @@
-<h1 align="center">Hi 👋, I'm Matteo Piffari</h1>
+<div id="toc" align="center">
+  <ul style="list-style: none;">
+    <summary>
+      <h1>Hi 👋, I'm Matteo Piffari</h1>
+    </summary>
+    <summary>
+      <h3>Freelance Full-Stack Developer & Computer Science Student</h3>
+    </summary>
+  </ul>
+</div>
+
+<hr>
 
 - 🔭 I’m currently working on [MyWorkMate](https://www.myworkmate.it)
 
